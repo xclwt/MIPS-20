@@ -1,0 +1,18 @@
+0.6
+2019.2
+Oct 24 2019
+19:01:44
+D:/my_vivado/cpu2/cpu2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sim_1/imports/new/cpu_sim.v,1592586726,verilog,,,,cpu_sim,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/alu.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/cpu.v,,alu,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/register.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/rom.v,,register,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/ControlUnit.v,1592620167,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/IOManager.v,,ControlUnit,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/InstrumentDecoder.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/alu.v,,InstrumentDecoder,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/extend.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/pc.v,,extend,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/pc.v,1592456704,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/ram.v,,pc,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/ram.v,1592620428,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/register.v,,ram,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/rom.v,1592620300,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/selector.v,,rom,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/IOManager.v,1592620271,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/InstrumentDecoder.v,,IOManager,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/cpu.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/imports/sources_1/new/extend.v,,cpu,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/selector.v,1592586726,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/selector2.v,,selector,,,,,,,,
+D:/my_vivado/cpu2/cpu2.srcs/sources_1/imports/sources_1/new/selector2.v,1592292022,verilog,,D:/my_vivado/cpu2/cpu2.srcs/sim_1/imports/new/cpu_sim.v,,selector2,,,,,,,,
